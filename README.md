@@ -1,7 +1,81 @@
-# ⛩️ About Me:
-👨‍💻 All of my projects are available at https://kan7sh.github.io/Portfolio/<br>📫 How to reach me : kchhabra416@gmail.com
+<br clear="both">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanish-chhabra-1a3b20258) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KanishChhabra) 
+<h2 align="center">Pushing pixels, pulling all-nighters</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="51" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=azure" height="51" alt="azure logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dart" height="51" alt="dart logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="51" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="51" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="51" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="51" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="51" alt="flutter logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="51" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=java" height="51" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="51" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=linux" height="51" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="51" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="51" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="51" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="51" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="51" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="51" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=redis" height="51" alt="redis logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kan7sh&locale=en&mode=weekly&theme=apprentice&hide_border=false&border_radius=10&order=3" height="89" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kan7sh&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kan7sh/Kan7sh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kan7sh/Kan7sh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kan7sh/Kan7sh/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kanish-chhabra/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="34" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/KanishChhabra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="34" alt="twitter logo"  />
+  </a>
+</div>
+
+###
