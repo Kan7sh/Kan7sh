@@ -51,8 +51,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kan7sh&locale=en&mode=weekly&theme=apprentice&hide_border=false&border_radius=10&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kan7sh&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kan7sh&locale=en&mode=weekly&theme=apprentice&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kan7sh&radius=16&theme=dracula&area=true&order=5" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -73,6 +73,8 @@
   <a href="https://www.linkedin.com/in/kanish-chhabra/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="34" alt="linkedin logo"  />
   </a>
+
+  
   <a href="https://x.com/KanishChhabra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="34" alt="twitter logo"  />
   </a>
