@@ -50,14 +50,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kan7sh&radius=16&theme=dracula&area=true&order=5" height="200" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kan7sh/Kan7sh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kan7sh/Kan7sh/output/pacman-contribution-graph.svg">
@@ -69,13 +61,22 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kanish-chhabra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="34" alt="linkedin logo"  />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kan7sh&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
+
+
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kanishc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="42" />
+  </a>
   <img width="15" />
   <a href="https://x.com/KanishChhabra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="34" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="42"  />
   </a>
 </div>
 
